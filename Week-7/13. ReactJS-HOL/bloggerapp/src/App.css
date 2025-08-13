@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 50px;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  padding: 10px;
+  border-left: 4px solid green;
+}
+
+.section h2 {
+  margin-bottom: 20px;
+  font-size: 22px;
+}
+
+.section h3 {
+  margin: 10px 0 5px;
+}
+
+.section p {
+  margin: 0 0 15px;
+}
